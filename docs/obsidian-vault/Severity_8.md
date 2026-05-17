@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Severity_8.md"
 type: "document"
 community: "Community None"
-location: "L167"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Severity**
+# Severity_8.md
 
 ## Connections
-- [[Workflows should handle integration failures gracefully]] - `contains` [EXTRACTED]
+- [[Severity_31]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/references/obsidian-mastery.md"
+source_file: "Code-base1/docs/obsidian-vault/codemarkdown (---)_2.md"
 type: "document"
 community: "Community None"
-location: "L212"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:markdown (---)
+# codemarkdown (---)_2.md
 
 ## Connections
-- [[Permanent Note Template]] - `contains` [EXTRACTED]
+- [[codemarkdown (---)_11]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

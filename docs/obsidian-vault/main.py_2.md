@@ -1,18 +1,17 @@
 ---
-source_file: "Documents/code-graph-vault/main.py.md"
+source_file: "Code-base1/docs/obsidian-vault/main.py_2.md"
 type: "document"
 community: "Community None"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# main.py
+# main.py_2.md
 
 ## Connections
-- [[Connections]] - `contains` [EXTRACTED]
-- [[main.py_1]] - `contains` [EXTRACTED]
+- [[main.py_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/templates/relationship.md"
+source_file: "Code-base1/docs/obsidian-vault/Related_1.md"
 type: "document"
 community: "Community None"
-location: "L86"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Related
+# Related_1.md
 
 ## Connections
-- [[{{Person Name}}]] - `contains` [EXTRACTED]
+- [[Related_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Pattern_5.md"
 type: "document"
 community: "Community None"
-location: "L111"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Pattern**
+# Pattern_5.md
 
 ## Connections
-- [[Generated content should check brand compliance]] - `contains` [EXTRACTED]
+- [[Pattern_28]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

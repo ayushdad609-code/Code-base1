@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/daily-plan.md"
+source_file: "Code-base1/docs/obsidian-vault/codeblock1 (Do I remember the user's Second Brain vault path)_3.md"
 type: "document"
 community: "Community None"
-location: "L13"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:block1 (Do I remember the user's Second Brain vault path?)
+# codeblock1 (Do I remember the user's Second Brain vault path)_3.md
 
 ## Connections
-- [[Configuration Check_4]] - `contains` [EXTRACTED]
+- [[codeblock1 (Do I remember the user's Second Brain vault path)_8]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/references/para-zettelkasten.md"
+source_file: "Code-base1/docs/obsidian-vault/Overview_1.md"
 type: "document"
 community: "Community None"
-location: "L7"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Overview
+# Overview_1.md
 
 ## Connections
-- [[PARA + Zettelkasten Methodology]] - `contains` [EXTRACTED]
+- [[Overview_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: "skills-lock.json"
-type: "code"
+source_file: "Code-base1/docs/obsidian-vault/source_10.md"
+type: "document"
 community: "Community None"
-location: "L65"
+location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# source
+# source_10.md
 
 ## Connections
-- [[research-idea-validator]] - `contains` [EXTRACTED]
+- [[source_29]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

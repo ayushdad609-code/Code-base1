@@ -1,5 +1,5 @@
 ---
-source_file: "skills/agent-researcher/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/SKILL_24.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# SKILL.md
+# SKILL_24.md
 
 ## Connections
-- [[Research and Analysis Agent]] - `contains` [EXTRACTED]
+- [[SKILL_54]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

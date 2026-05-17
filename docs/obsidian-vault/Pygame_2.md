@@ -1,16 +1,17 @@
 ---
-source_file: "Code-base-repo/requirements.txt"
-type: "concept"
+source_file: "Code-base1/docs/obsidian-vault/Pygame_2.md"
+type: "document"
 community: "Community None"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Pygame
+# Pygame_2.md
 
 ## Connections
-- [[gameLoop()]] - `references` [EXTRACTED]
+- [[Pygame_3]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

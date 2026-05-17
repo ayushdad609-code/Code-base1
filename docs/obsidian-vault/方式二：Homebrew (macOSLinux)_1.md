@@ -1,18 +1,17 @@
 ---
-source_file: "skills/github-readme-generator/templates/cli.md"
+source_file: "Code-base1/docs/obsidian-vault/方式二：Homebrew (macOSLinux)_1.md"
 type: "document"
 community: "Community None"
-location: "L32"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# 方式二：Homebrew (macOS/Linux)
+# 方式二：Homebrew (macOSLinux)_1.md
 
 ## Connections
-- [[codebash (brew tap {{GITHUB_USERNAME}}tap)]] - `contains` [EXTRACTED]
-- [[安装_4]] - `contains` [EXTRACTED]
+- [[方式二：Homebrew (macOSLinux)_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

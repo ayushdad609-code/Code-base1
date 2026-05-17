@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/patterns.md"
+source_file: "Code-base1/docs/obsidian-vault/codejson ({)_4.md"
 type: "document"
 community: "Community None"
-location: "L544"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:json ({)
+# codejson ({)_4.md
 
 ## Connections
-- [[Patterns]] - `contains` [EXTRACTED]
+- [[codejson ({)_11]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

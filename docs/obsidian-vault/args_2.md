@@ -1,17 +1,17 @@
 ---
-source_file: ".gemini/settings.json"
-type: "code"
+source_file: "Code-base1/docs/obsidian-vault/args_2.md"
+type: "document"
 community: "Community None"
-location: "L25"
+location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# args
+# args_2.md
 
 ## Connections
-- [[google-drive]] - `contains` [EXTRACTED]
+- [[args_6]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

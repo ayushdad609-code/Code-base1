@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Autofix_12.md"
 type: "document"
 community: "Community None"
-location: "L260"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Autofix**
+# Autofix_12.md
 
 ## Connections
-- [[Generated content should track performance metrics]] - `contains` [EXTRACTED]
+- [[Autofix_18]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

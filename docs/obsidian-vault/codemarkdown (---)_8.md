@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/setup.md"
+source_file: "Code-base1/docs/obsidian-vault/codemarkdown (---)_8.md"
 type: "document"
 community: "Community None"
-location: "L488"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:markdown (---)
+# codemarkdown (---)_8.md
 
 ## Connections
-- [[Step 5 Create Default Areas]] - `contains` [EXTRACTED]
+- [[codemarkdown (---)_21]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

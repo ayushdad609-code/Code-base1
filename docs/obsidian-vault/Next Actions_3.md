@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/templates/project.md"
+source_file: "Code-base1/docs/obsidian-vault/Next Actions_3.md"
 type: "document"
 community: "Community None"
-location: "L40"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Next Actions
+# Next Actions_3.md
 
 ## Connections
-- [[{{title}}_2]] - `contains` [EXTRACTED]
+- [[Next Actions_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,18 +1,17 @@
 ---
-source_file: "skills/github-profile/evals/evals.json"
-type: "code"
+source_file: "Code-base1/docs/obsidian-vault/evals.json_1.md"
+type: "document"
 community: "Community None"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# evals.json
+# evals.json_1.md
 
 ## Connections
-- [[evals]] - `contains` [EXTRACTED]
-- [[skill_name]] - `contains` [EXTRACTED]
+- [[evals.json_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

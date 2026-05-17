@@ -1,17 +1,17 @@
 ---
-source_file: "skills-lock.json"
-type: "code"
+source_file: "Code-base1/docs/obsidian-vault/computedHash_7.md"
+type: "document"
 community: "Community None"
-location: "L50"
+location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# computedHash
+# computedHash_7.md
 
 ## Connections
-- [[github-profile]] - `contains` [EXTRACTED]
+- [[computedHash_22]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

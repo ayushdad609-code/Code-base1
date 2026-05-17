@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/workflows/capture.md"
+source_file: "Code-base1/docs/obsidian-vault/capture_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# capture.md
+# capture_1.md
 
 ## Connections
-- [[Capture Workflow]] - `contains` [EXTRACTED]
+- [[capture_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

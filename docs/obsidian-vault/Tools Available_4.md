@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/daily-plan.md"
+source_file: "Code-base1/docs/obsidian-vault/Tools Available_4.md"
 type: "document"
 community: "Community None"
-location: "L341"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Tools Available
+# Tools Available_4.md
 
 ## Connections
-- [[Daily Plan Workflow]] - `contains` [EXTRACTED]
+- [[Tools Available_10]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: "skills/github-readme-generator/templates/library.md"
+source_file: "Code-base1/docs/obsidian-vault/示例 1：{{EXAMPLE1_TITLE}}_1.md"
 type: "document"
 community: "Community None"
-location: "L52"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# 示例 1：{{EXAMPLE1_TITLE}}
+# 示例 1：{{EXAMPLE1_TITLE}}_1.md
 
 ## Connections
-- [[示例代码_1]] - `contains` [EXTRACTED]
+- [[示例 1：{{EXAMPLE1_TITLE}}_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

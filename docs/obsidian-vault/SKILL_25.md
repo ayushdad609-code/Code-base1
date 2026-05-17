@@ -1,5 +1,5 @@
 ---
-source_file: "skills/ai-workflow-automation/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/SKILL_25.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# SKILL.md
+# SKILL_25.md
 
 ## Connections
-- [[Ai Workflow Automation]] - `contains` [EXTRACTED]
+- [[SKILL_52]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

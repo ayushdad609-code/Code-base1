@@ -1,18 +1,17 @@
 ---
-source_file: "Documents/code-graph-vault/Snake Game.md"
+source_file: "Code-base1/docs/obsidian-vault/Snake Game_1.md"
 type: "document"
 community: "Community None"
-location: "L11"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Snake Game
+# Snake Game_1.md
 
 ## Connections
-- [[Connections_5]] - `contains` [EXTRACTED]
-- [[Snake Game]] - `contains` [EXTRACTED]
+- [[Snake Game_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

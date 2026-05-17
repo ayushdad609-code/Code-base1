@@ -1,21 +1,17 @@
 ---
-source_file: ".agents/skills/penpot-uiux-design/references/component-patterns.md"
+source_file: "Code-base1/docs/obsidian-vault/Navigation Patterns_1.md"
 type: "document"
 community: "Community None"
-location: "L112"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Navigation Patterns
+# Navigation Patterns_1.md
 
 ## Connections
-- [[Bottom Navigation (Mobile)]] - `contains` [EXTRACTED]
-- [[Breadcrumbs]] - `contains` [EXTRACTED]
-- [[Navigation_1]] - `contains` [EXTRACTED]
-- [[Sidebar Navigation]] - `contains` [EXTRACTED]
-- [[Top Navigation Bar]] - `contains` [EXTRACTED]
+- [[Navigation Patterns_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

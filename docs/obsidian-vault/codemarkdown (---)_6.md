@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/daily-closeout.md"
+source_file: "Code-base1/docs/obsidian-vault/codemarkdown (---)_6.md"
 type: "document"
 community: "Community None"
-location: "L257"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:markdown (---)
+# codemarkdown (---)_6.md
 
 ## Connections
-- [[Step 5 Generate Tomorrow's DRAFT Plan]] - `contains` [EXTRACTED]
+- [[codemarkdown (---)_19]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,5 +1,5 @@
 ---
-source_file: "skills/git-city-3d-github-visualization/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/SKILL_19.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# SKILL.md
+# SKILL_19.md
 
 ## Connections
-- [[Git City — 3D GitHub Profile Visualization]] - `contains` [EXTRACTED]
+- [[SKILL_56]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

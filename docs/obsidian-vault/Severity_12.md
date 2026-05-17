@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Severity_12.md"
 type: "document"
 community: "Community None"
-location: "L247"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Severity**
+# Severity_12.md
 
 ## Connections
-- [[Generated content should track performance metrics]] - `contains` [EXTRACTED]
+- [[Severity_30]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

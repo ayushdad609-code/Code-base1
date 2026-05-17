@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Id_1.md"
 type: "document"
 community: "Community None"
-location: "L25"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Id**
+# Id_1.md
 
 ## Connections
-- [[AI workflows should track costs per request]] - `contains` [EXTRACTED]
+- [[Id_26]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

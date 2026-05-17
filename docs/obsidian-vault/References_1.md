@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/templates/permanent-note.md"
+source_file: "Code-base1/docs/obsidian-vault/References_1.md"
 type: "document"
 community: "Community None"
-location: "L68"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# References
+# References_1.md
 
 ## Connections
-- [[{{title}}_1]] - `contains` [EXTRACTED]
+- [[References_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

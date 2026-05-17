@@ -1,5 +1,5 @@
 ---
-source_file: ".agents/skills/research-idea-validator/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/SKILL_8.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# SKILL.md
+# SKILL_8.md
 
 ## Connections
-- [[Research Idea Validator]] - `contains` [EXTRACTED]
+- [[SKILL_39]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

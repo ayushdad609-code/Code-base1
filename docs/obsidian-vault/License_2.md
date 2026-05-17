@@ -1,17 +1,17 @@
 ---
-source_file: "skills/github-readme-generator/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/License_2.md"
 type: "document"
 community: "Community None"
-location: "L95"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# License
+# License_2.md
 
 ## Connections
-- [[GitHub README Generator]] - `contains` [EXTRACTED]
+- [[License_18]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

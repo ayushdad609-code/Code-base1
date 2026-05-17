@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Message_7.md"
 type: "document"
 community: "Community None"
-location: "L158"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Message**
+# Message_7.md
 
 ## Connections
-- [[Workflows should log errors with context]] - `contains` [EXTRACTED]
+- [[Message_27]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: "Documents/code-graph-vault/Scoring System.md"
+source_file: "Code-base1/docs/obsidian-vault/Connections_6.md"
 type: "document"
 community: "Community None"
-location: "L13"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Connections
+# Connections_6.md
 
 ## Connections
-- [[Scoring System_1]] - `contains` [EXTRACTED]
+- [[Connections_1738]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

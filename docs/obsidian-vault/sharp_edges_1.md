@@ -1,5 +1,5 @@
 ---
-source_file: "skills/ai-workflow-automation/references/sharp_edges.md"
+source_file: "Code-base1/docs/obsidian-vault/sharp_edges_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# sharp_edges.md
+# sharp_edges_1.md
 
 ## Connections
-- [[Ai Workflow Automation - Sharp Edges]] - `contains` [EXTRACTED]
+- [[sharp_edges_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

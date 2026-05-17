@@ -1,17 +1,17 @@
 ---
-source_file: ".agents/.skill-lock.json"
-type: "code"
+source_file: "Code-base1/docs/obsidian-vault/updatedAt_1.md"
+type: "document"
 community: "Community None"
-location: "L21"
+location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# updatedAt
+# updatedAt_1.md
 
 ## Connections
-- [[frontend-design]] - `contains` [EXTRACTED]
+- [[updatedAt_6]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

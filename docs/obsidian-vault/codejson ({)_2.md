@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/references/excalidraw-diagrams.md"
+source_file: "Code-base1/docs/obsidian-vault/codejson ({)_2.md"
 type: "document"
 community: "Community None"
-location: "L538"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:json ({)
+# codejson ({)_2.md
 
 ## Connections
-- [[Drawing]] - `contains` [EXTRACTED]
+- [[codejson ({)_12]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

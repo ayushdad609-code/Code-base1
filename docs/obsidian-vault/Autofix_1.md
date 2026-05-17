@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Autofix_1.md"
 type: "document"
 community: "Community None"
-location: "L40"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Autofix**
+# Autofix_1.md
 
 ## Connections
-- [[AI workflows should track costs per request]] - `contains` [EXTRACTED]
+- [[Autofix_26]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

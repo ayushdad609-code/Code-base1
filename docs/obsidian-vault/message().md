@@ -12,9 +12,9 @@ tags:
 # message()
 
 ## Connections
-- [[Game Over Screen_2]] - `conceptually_related_to` [INFERRED]
+- [[Game Over Screen_6]] - `conceptually_related_to` [INFERRED]
 - [[gameLoop()]] - `calls` [EXTRACTED]
 - [[main.py]] - `contains` [EXTRACTED]
-- [[main.py_3]] - `contains` [EXTRACTED]
+- [[main.py_8]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Severity_3.md"
 type: "document"
 community: "Community None"
-location: "L67"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Severity**
+# Severity_3.md
 
 ## Connections
-- [[Approval workflows should have backup approvers]] - `contains` [EXTRACTED]
+- [[Severity_24]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

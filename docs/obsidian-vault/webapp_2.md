@@ -1,5 +1,5 @@
 ---
-source_file: "skills/github-readme-generator/templates/webapp.md"
+source_file: "Code-base1/docs/obsidian-vault/webapp_2.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# webapp.md
+# webapp_2.md
 
 ## Connections
-- [[{{PROJECT_NAME}}_5]] - `contains` [EXTRACTED]
+- [[webapp_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,5 +1,5 @@
 ---
-source_file: ".agents/skills/snapshot-test-refactorer/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/SKILL_11.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# SKILL.md
+# SKILL_11.md
 
 ## Connections
-- [[Snapshot Test Refactorer]] - `contains` [EXTRACTED]
+- [[SKILL_41]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

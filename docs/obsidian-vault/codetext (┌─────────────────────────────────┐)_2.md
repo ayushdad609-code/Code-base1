@@ -1,17 +1,17 @@
 ---
-source_file: ".agents/skills/penpot-uiux-design/references/platform-guidelines.md"
+source_file: "Code-base1/docs/obsidian-vault/codetext (┌─────────────────────────────────┐)_2.md"
 type: "document"
 community: "Community None"
-location: "L73"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:text (┌─────────────────────────────────┐)
+# codetext (┌─────────────────────────────────┐)_2.md
 
 ## Connections
-- [[Navigation Bar]] - `contains` [EXTRACTED]
+- [[codetext (┌─────────────────────────────────┐)_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

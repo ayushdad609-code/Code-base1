@@ -1,5 +1,5 @@
 ---
-source_file: "skills/github-readme-generator/examples/cli-readme.md"
+source_file: "Code-base1/docs/obsidian-vault/cli-readme_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# cli-readme.md
+# cli-readme_1.md
 
 ## Connections
-- [[devtool]] - `contains` [EXTRACTED]
+- [[cli-readme_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

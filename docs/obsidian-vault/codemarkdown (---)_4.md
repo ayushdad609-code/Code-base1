@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/capture.md"
+source_file: "Code-base1/docs/obsidian-vault/codemarkdown (---)_4.md"
 type: "document"
 community: "Community None"
-location: "L48"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:markdown (---)
+# codemarkdown (---)_4.md
 
 ## Connections
-- [[Step 1 Determine Today's Inbox File]] - `contains` [EXTRACTED]
+- [[codemarkdown (---)_17]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,21 +1,17 @@
 ---
-source_file: "skills/second-brain/config/config-template.json"
-type: "code"
+source_file: "Code-base1/docs/obsidian-vault/config-template.json_1.md"
+type: "document"
 community: "Community None"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# config-template.json
+# config-template.json_1.md
 
 ## Connections
-- [[preferences]] - `contains` [EXTRACTED]
-- [[setupComplete]] - `contains` [EXTRACTED]
-- [[userContext]] - `contains` [EXTRACTED]
-- [[userName]] - `contains` [EXTRACTED]
-- [[vaultPath]] - `contains` [EXTRACTED]
+- [[config-template.json_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

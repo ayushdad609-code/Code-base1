@@ -1,17 +1,17 @@
 ---
-source_file: "skills/agentic-workflow-automation/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/Common Pitfalls_1.md"
 type: "document"
 community: "Community None"
-location: "L54"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Common Pitfalls
+# Common Pitfalls_1.md
 
 ## Connections
-- [[Agentic Workflow Automation]] - `contains` [EXTRACTED]
+- [[Common Pitfalls_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

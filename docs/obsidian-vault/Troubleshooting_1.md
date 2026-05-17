@@ -1,20 +1,17 @@
 ---
-source_file: "skills/second-brain/config/README.md"
+source_file: "Code-base1/docs/obsidian-vault/Troubleshooting_1.md"
 type: "document"
 community: "Community None"
-location: "L118"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Troubleshooting
+# Troubleshooting_1.md
 
 ## Connections
-- [[Changing vault location]] - `contains` [EXTRACTED]
-- [[Claude doesn't remember my vault path]] - `contains` [EXTRACTED]
-- [[Configuration]] - `contains` [EXTRACTED]
-- [[Memory not available]] - `contains` [EXTRACTED]
+- [[Troubleshooting_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Message_15.md"
 type: "document"
 community: "Community None"
-location: "L318"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Message**
+# Message_15.md
 
 ## Connections
-- [[Multi-channel content should adapt per platform]] - `contains` [EXTRACTED]
+- [[Message_31]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

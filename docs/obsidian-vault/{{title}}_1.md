@@ -1,23 +1,17 @@
 ---
-source_file: "skills/second-brain/templates/permanent-note.md"
+source_file: "Code-base1/docs/obsidian-vault/{{title}}_1.md"
 type: "document"
 community: "Community None"
-location: "L16"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# {{title}}
+# {{title}}_1.md
 
 ## Connections
-- [[Examples_1]] - `contains` [EXTRACTED]
-- [[Links]] - `contains` [EXTRACTED]
-- [[References_1]] - `contains` [EXTRACTED]
-- [[The Idea]] - `contains` [EXTRACTED]
-- [[Why It Matters]] - `contains` [EXTRACTED]
-- [[permanent-note]] - `contains` [EXTRACTED]
-- [[permanent-note_1]] - `contains` [EXTRACTED]
+- [[{{title}}_8]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

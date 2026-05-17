@@ -1,5 +1,5 @@
 ---
-source_file: ".agents/skills/web-design-guidelines/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/SKILL_17.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# SKILL.md
+# SKILL_17.md
 
 ## Connections
-- [[Web Interface Guidelines]] - `contains` [EXTRACTED]
+- [[SKILL_61]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

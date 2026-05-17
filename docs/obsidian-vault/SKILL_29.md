@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/SKILL_29.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# SKILL.md
+# SKILL_29.md
 
 ## Connections
-- [[Second Brain]] - `contains` [EXTRACTED]
+- [[SKILL_60]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

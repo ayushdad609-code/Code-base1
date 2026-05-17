@@ -1,18 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/daily-plan.md"
+source_file: "Code-base1/docs/obsidian-vault/Step 0 Check Inbox_1.md"
 type: "document"
 community: "Community None"
-location: "L78"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Step 0: Check Inbox
+# Step 0 Check Inbox_1.md
 
 ## Connections
-- [[Daily Plan Workflow]] - `contains` [EXTRACTED]
-- [[codeblock3 (INBOX CHECK)]] - `contains` [EXTRACTED]
+- [[Step 0 Check Inbox_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

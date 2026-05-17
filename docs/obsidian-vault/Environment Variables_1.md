@@ -1,17 +1,17 @@
 ---
-source_file: ".agents/skills/penpot-uiux-design/references/setup-troubleshooting.md"
+source_file: "Code-base1/docs/obsidian-vault/Environment Variables_1.md"
 type: "document"
 community: "Community None"
-location: "L282"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Environment Variables
+# Environment Variables_1.md
 
 ## Connections
-- [[Configuration Reference]] - `contains` [EXTRACTED]
+- [[Environment Variables_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

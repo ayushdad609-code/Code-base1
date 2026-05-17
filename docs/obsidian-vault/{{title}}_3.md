@@ -1,22 +1,17 @@
 ---
-source_file: "skills/second-brain/templates/fleeting-note.md"
+source_file: "Code-base1/docs/obsidian-vault/{{title}}_3.md"
 type: "document"
 community: "Community None"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# {{title}}
+# {{title}}_3.md
 
 ## Connections
-- [[Next Steps]] - `contains` [EXTRACTED]
-- [[Potential Connections]] - `contains` [EXTRACTED]
-- [[The Idea_1]] - `contains` [EXTRACTED]
-- [[Why It Caught Your Attention]] - `contains` [EXTRACTED]
-- [[fleeting-note]] - `contains` [EXTRACTED]
-- [[fleeting-note_1]] - `contains` [EXTRACTED]
+- [[{{title}}_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

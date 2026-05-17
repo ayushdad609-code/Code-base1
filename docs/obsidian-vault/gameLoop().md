@@ -12,11 +12,11 @@ tags:
 # gameLoop()
 
 ## Connections
-- [[Pygame_2]] - `references` [EXTRACTED]
-- [[Snake Game_2]] - `implements` [INFERRED]
+- [[Pygame_6]] - `references` [EXTRACTED]
+- [[Snake Game_6]] - `implements` [INFERRED]
 - [[gameLoop()]] - `calls` [EXTRACTED]
 - [[main.py]] - `contains` [EXTRACTED]
-- [[main.py_3]] - `contains` [EXTRACTED]
+- [[main.py_8]] - `contains` [EXTRACTED]
 - [[message()]] - `calls` [EXTRACTED]
 - [[our_snake()]] - `calls` [EXTRACTED]
 - [[show_score()]] - `calls` [EXTRACTED]

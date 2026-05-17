@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/references/excalidraw-diagrams.md"
+source_file: "Code-base1/docs/obsidian-vault/codeblock5_1.md"
 type: "document"
 community: "Community None"
-location: "L112"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:block5
+# codeblock5_1.md
 
 ## Connections
-- [[Complete File Structure]] - `contains` [EXTRACTED]
+- [[codeblock5_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

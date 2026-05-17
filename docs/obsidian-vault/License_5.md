@@ -1,17 +1,17 @@
 ---
-source_file: "skills/github-readme-generator/examples/basic-readme.md"
+source_file: "Code-base1/docs/obsidian-vault/License_5.md"
 type: "document"
 community: "Community None"
-location: "L120"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# License
+# License_5.md
 
 ## Connections
-- [[My Awesome Project]] - `contains` [EXTRACTED]
+- [[License_23]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

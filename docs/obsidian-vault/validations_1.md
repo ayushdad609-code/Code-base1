@@ -1,5 +1,5 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/validations_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# validations.md
+# validations_1.md
 
 ## Connections
-- [[Ai Workflow Automation - Validations]] - `contains` [EXTRACTED]
+- [[validations_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

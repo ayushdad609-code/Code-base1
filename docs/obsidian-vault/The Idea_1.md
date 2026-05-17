@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/templates/fleeting-note.md"
+source_file: "Code-base1/docs/obsidian-vault/The Idea_1.md"
 type: "document"
 community: "Community None"
-location: "L16"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# The Idea
+# The Idea_1.md
 
 ## Connections
-- [[{{title}}_3]] - `contains` [EXTRACTED]
+- [[The Idea_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

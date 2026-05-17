@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Severity_2.md"
 type: "document"
 community: "Community None"
-location: "L47"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Severity**
+# Severity_2.md
 
 ## Connections
-- [[Content workflows should have defined approval process]] - `contains` [EXTRACTED]
+- [[Severity_16]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

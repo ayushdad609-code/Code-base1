@@ -1,17 +1,17 @@
 ---
-source_file: ".agents/skills/penpot-uiux-design/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/Quick Reference_2.md"
 type: "document"
 community: "Community None"
-location: "L77"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Quick Reference
+# Quick Reference_2.md
 
 ## Connections
-- [[Penpot UIUX Design Guide]] - `contains` [EXTRACTED]
+- [[Quick Reference_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

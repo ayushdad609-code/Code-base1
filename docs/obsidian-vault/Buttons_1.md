@@ -1,21 +1,17 @@
 ---
-source_file: ".agents/skills/penpot-uiux-design/references/component-patterns.md"
+source_file: "Code-base1/docs/obsidian-vault/Buttons_1.md"
 type: "document"
 community: "Community None"
-location: "L3"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Buttons
+# Buttons_1.md
 
 ## Connections
-- [[Button Label Patterns]] - `contains` [EXTRACTED]
-- [[Button Specifications]] - `contains` [EXTRACTED]
-- [[Button States]] - `contains` [EXTRACTED]
-- [[Button Types]] - `contains` [EXTRACTED]
-- [[UI Component Patterns Reference]] - `contains` [EXTRACTED]
+- [[Buttons_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

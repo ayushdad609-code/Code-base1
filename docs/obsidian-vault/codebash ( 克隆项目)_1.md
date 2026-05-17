@@ -1,17 +1,17 @@
 ---
-source_file: "skills/github-readme-generator/examples/basic-readme.md"
+source_file: "Code-base1/docs/obsidian-vault/codebash ( 克隆项目)_1.md"
 type: "document"
 community: "Community None"
-location: "L44"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:bash (# 克隆项目)
+# codebash ( 克隆项目)_1.md
 
 ## Connections
-- [[安装步骤_1]] - `contains` [EXTRACTED]
+- [[codebash ( 克隆项目)_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

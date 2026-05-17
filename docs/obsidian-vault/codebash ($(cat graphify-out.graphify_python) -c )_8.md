@@ -1,17 +1,17 @@
 ---
-source_file: ".gemini/skills/graphify/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/codebash ($(cat graphify-out.graphify_python) -c )_8.md"
 type: "document"
 community: "Community None"
-location: "L668"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:bash ($(cat graphify-out/.graphify_python) -c ")
+# codebash ($(cat graphify-out.graphify_python) -c )_8.md
 
 ## Connections
-- [[Step 9 - Save manifest, update cost tracker, clean up, and report]] - `contains` [EXTRACTED]
+- [[codebash ($(cat graphify-out.graphify_python) -c )_19]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,5 +1,5 @@
 ---
-source_file: "Documents/code-graph-vault/Scoring System.md"
+source_file: "Code-base1/docs/obsidian-vault/Scoring System.md"
 type: "document"
 community: "Community None"
 location: "L1"

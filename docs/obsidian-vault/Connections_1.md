@@ -1,17 +1,17 @@
 ---
-source_file: "Documents/code-graph-vault/our_snake().md"
+source_file: "Code-base1/docs/obsidian-vault/Connections_1.md"
 type: "document"
 community: "Community None"
-location: "L14"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Connections
+# Connections_1.md
 
 ## Connections
-- [[our_snake()_2]] - `contains` [EXTRACTED]
+- [[Connections_1736]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

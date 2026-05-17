@@ -1,5 +1,5 @@
 ---
-source_file: ".agents/skills/second-brain/config/README.md"
+source_file: "Code-base1/docs/obsidian-vault/README_3.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# README.md
+# README_3.md
 
 ## Connections
-- [[Configuration]] - `contains` [EXTRACTED]
+- [[README_11]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

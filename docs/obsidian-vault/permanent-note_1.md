@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/templates/permanent-note.md"
+source_file: "Code-base1/docs/obsidian-vault/permanent-note_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# permanent-note.md
+# permanent-note_1.md
 
 ## Connections
-- [[{{title}}_1]] - `contains` [EXTRACTED]
+- [[permanent-note_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

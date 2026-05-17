@@ -1,17 +1,17 @@
 ---
-source_file: ".agents/skills/penpot-uiux-design/references/component-patterns.md"
+source_file: "Code-base1/docs/obsidian-vault/codetext (┌─────────────────────────────────────┐)_3.md"
 type: "document"
 community: "Community None"
-location: "L326"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:text (┌─────────────────────────────────────┐)
+# codetext (┌─────────────────────────────────────┐)_3.md
 
 ## Connections
-- [[Skeleton Screen]] - `contains` [EXTRACTED]
+- [[codetext (┌─────────────────────────────────────┐)_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

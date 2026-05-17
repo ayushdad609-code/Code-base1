@@ -1,17 +1,17 @@
 ---
-source_file: "skills/agentic-workflow-automation/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/Examples_2.md"
 type: "document"
 community: "Community None"
-location: "L40"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Examples
+# Examples_2.md
 
 ## Connections
-- [[Agentic Workflow Automation]] - `contains` [EXTRACTED]
+- [[Examples_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

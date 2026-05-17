@@ -1,17 +1,17 @@
 ---
-source_file: "skills/github-readme-generator/templates/full.md"
+source_file: "Code-base1/docs/obsidian-vault/License_10.md"
 type: "document"
 community: "Community None"
-location: "L195"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# License
+# License_10.md
 
 ## Connections
-- [[{{PROJECT_NAME}}_3]] - `contains` [EXTRACTED]
+- [[License_25]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

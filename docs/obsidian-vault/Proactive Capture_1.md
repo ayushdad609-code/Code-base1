@@ -1,18 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/capture.md"
+source_file: "Code-base1/docs/obsidian-vault/Proactive Capture_1.md"
 type: "document"
 community: "Community None"
-location: "L163"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Proactive Capture
+# Proactive Capture_1.md
 
 ## Connections
-- [[Capture Workflow]] - `contains` [EXTRACTED]
-- [[codeblock8 (That's worth remembering. Would you like me to capture bri)]] - `contains` [EXTRACTED]
+- [[Proactive Capture_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: "skills-lock.json"
-type: "code"
+source_file: "Code-base1/docs/obsidian-vault/skillPath_12.md"
+type: "document"
 community: "Community None"
-location: "L79"
+location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# skillPath
+# skillPath_12.md
 
 ## Connections
-- [[snapshot-test-refactorer]] - `contains` [EXTRACTED]
+- [[skillPath_31]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

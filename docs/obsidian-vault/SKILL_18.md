@@ -1,5 +1,5 @@
 ---
-source_file: "skills/create-readme/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/SKILL_18.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,10 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# SKILL.md
+# SKILL_18.md
 
 ## Connections
-- [[Role]] - `contains` [EXTRACTED]
-- [[Task]] - `contains` [EXTRACTED]
+- [[SKILL_55]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

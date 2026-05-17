@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/references/tagging-strategy.md"
+source_file: "Code-base1/docs/obsidian-vault/codeyaml (tags)_4.md"
 type: "document"
 community: "Community None"
-location: "L289"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:yaml (tags:)
+# codeyaml (tags)_4.md
 
 ## Connections
-- [[Minimum Required]] - `contains` [EXTRACTED]
+- [[codeyaml (tags)_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

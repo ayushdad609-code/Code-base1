@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/templates/project.md"
+source_file: "Code-base1/docs/obsidian-vault/project_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# project.md
+# project_1.md
 
 ## Connections
-- [[{{title}}_2]] - `contains` [EXTRACTED]
+- [[project_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

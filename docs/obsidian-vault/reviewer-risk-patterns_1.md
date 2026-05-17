@@ -1,5 +1,5 @@
 ---
-source_file: "skills/research-idea-validator/references/reviewer-risk-patterns.md"
+source_file: "Code-base1/docs/obsidian-vault/reviewer-risk-patterns_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# reviewer-risk-patterns.md
+# reviewer-risk-patterns_1.md
 
 ## Connections
-- [[Reviewer Risk Patterns]] - `contains` [EXTRACTED]
+- [[reviewer-risk-patterns_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: ".agents/.skill-lock.json"
-type: "code"
+source_file: "Code-base1/docs/obsidian-vault/sourceUrl_2.md"
+type: "document"
 community: "Community None"
-location: "L26"
+location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# sourceUrl
+# sourceUrl_2.md
 
 ## Connections
-- [[penpot-uiux-design]] - `contains` [EXTRACTED]
+- [[sourceUrl_8]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

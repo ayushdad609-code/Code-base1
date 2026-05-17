@@ -12,9 +12,9 @@ tags:
 # show_score()
 
 ## Connections
-- [[Scoring System_2]] - `implements` [INFERRED]
+- [[Scoring System_6]] - `implements` [INFERRED]
 - [[gameLoop()]] - `calls` [EXTRACTED]
 - [[main.py]] - `contains` [EXTRACTED]
-- [[main.py_3]] - `contains` [EXTRACTED]
+- [[main.py_8]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_None

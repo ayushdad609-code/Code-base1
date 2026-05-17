@@ -1,18 +1,17 @@
 ---
-source_file: ".npm/_npx/ac0ed6aa23b37c1e/package.json"
-type: "code"
+source_file: "Code-base1/docs/obsidian-vault/dependencies_1.md"
+type: "document"
 community: "Community None"
-location: "L2"
+location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# dependencies
+# dependencies_1.md
 
 ## Connections
-- [[package.json_1]] - `contains` [EXTRACTED]
-- [[skills_1]] - `contains` [EXTRACTED]
+- [[dependencies_5]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/references/para-zettelkasten.md"
+source_file: "Code-base1/docs/obsidian-vault/para-zettelkasten_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# para-zettelkasten.md
+# para-zettelkasten_1.md
 
 ## Connections
-- [[PARA + Zettelkasten Methodology]] - `contains` [EXTRACTED]
+- [[para-zettelkasten_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

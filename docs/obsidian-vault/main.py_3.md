@@ -1,20 +1,17 @@
 ---
-source_file: "main.py"
-type: "code"
+source_file: "Code-base1/docs/obsidian-vault/main.py_3.md"
+type: "document"
 community: "Community None"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# main.py
+# main.py_3.md
 
 ## Connections
-- [[gameLoop()]] - `contains` [EXTRACTED]
-- [[message()]] - `contains` [EXTRACTED]
-- [[our_snake()]] - `contains` [EXTRACTED]
-- [[show_score()]] - `contains` [EXTRACTED]
+- [[main.py_4]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

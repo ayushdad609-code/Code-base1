@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Message_4.md"
 type: "document"
 community: "Community None"
-location: "L98"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Message**
+# Message_4.md
 
 ## Connections
-- [[API calls should have rate limiting]] - `contains` [EXTRACTED]
+- [[Message_21]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

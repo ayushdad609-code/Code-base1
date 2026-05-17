@@ -1,5 +1,5 @@
 ---
-source_file: "Documents/code-graph-vault/Snake Game.md"
+source_file: "Code-base1/docs/obsidian-vault/Snake Game.md"
 type: "document"
 community: "Community None"
 location: "L1"

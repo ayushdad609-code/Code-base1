@@ -1,18 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/daily-plan.md"
+source_file: "Code-base1/docs/obsidian-vault/Output Format_2.md"
 type: "document"
 community: "Community None"
-location: "L305"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Output Format
+# Output Format_2.md
 
 ## Connections
-- [[Daily Plan Workflow]] - `contains` [EXTRACTED]
-- [[codeblock7 (DAILY PLAN GENERATED)]] - `contains` [EXTRACTED]
+- [[Output Format_5]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

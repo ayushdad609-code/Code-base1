@@ -1,5 +1,5 @@
 ---
-source_file: "skills/github-profile/AGENTS.md"
+source_file: "Code-base1/docs/obsidian-vault/AGENTS_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# AGENTS.md
+# AGENTS_1.md
 
 ## Connections
-- [[GitHub Profile — Implementation recipes]] - `contains` [EXTRACTED]
+- [[AGENTS_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

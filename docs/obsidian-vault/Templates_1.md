@@ -1,17 +1,17 @@
 ---
-source_file: "skills/campaign-planning/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/Templates_1.md"
 type: "document"
 community: "Community None"
-location: "L21"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Templates
+# Templates_1.md
 
 ## Connections
-- [[Campaign Planning Skill]] - `contains` [EXTRACTED]
+- [[Templates_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

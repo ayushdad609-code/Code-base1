@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Autofix_15.md"
 type: "document"
 community: "Community None"
-location: "L320"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Autofix**
+# Autofix_15.md
 
 ## Connections
-- [[Multi-channel content should adapt per platform]] - `contains` [EXTRACTED]
+- [[Autofix_25]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

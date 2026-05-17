@@ -1,17 +1,17 @@
 ---
-source_file: "skills/agentic-workflow-automation/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/Core Principles_1.md"
 type: "document"
 community: "Community None"
-location: "L10"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Core Principles
+# Core Principles_1.md
 
 ## Connections
-- [[Agentic Workflow Automation]] - `contains` [EXTRACTED]
+- [[Core Principles_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

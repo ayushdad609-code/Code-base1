@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Autofix_8.md"
 type: "document"
 community: "Community None"
-location: "L180"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Autofix**
+# Autofix_8.md
 
 ## Connections
-- [[Workflows should handle integration failures gracefully]] - `contains` [EXTRACTED]
+- [[Autofix_28]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

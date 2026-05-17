@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/references/obsidian-mastery.md"
+source_file: "Code-base1/docs/obsidian-vault/obsidian-mastery_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# obsidian-mastery.md
+# obsidian-mastery_1.md
 
 ## Connections
-- [[Obsidian Conventions & Best Practices]] - `contains` [EXTRACTED]
+- [[obsidian-mastery_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

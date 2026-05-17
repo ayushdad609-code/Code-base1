@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/templates/user-context.md"
+source_file: "Code-base1/docs/obsidian-vault/user-context_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# user-context.md
+# user-context_1.md
 
 ## Connections
-- [[Assisting {{UserName}}]] - `contains` [EXTRACTED]
+- [[user-context_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

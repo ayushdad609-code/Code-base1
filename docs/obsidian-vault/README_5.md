@@ -1,5 +1,5 @@
 ---
-source_file: "skills/github-readme-generator/README.md"
+source_file: "Code-base1/docs/obsidian-vault/README_5.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# README.md
+# README_5.md
 
 ## Connections
-- [[GitHub README Generator Skill]] - `contains` [EXTRACTED]
+- [[README_12]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,27 +1,17 @@
 ---
-source_file: "skills/github-profile/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/GitHub Profile Optimizer_1.md"
 type: "document"
 community: "Community None"
-location: "L13"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# GitHub Profile Optimizer
+# GitHub Profile Optimizer_1.md
 
 ## Connections
-- [[Key principles]] - `contains` [EXTRACTED]
-- [[Output format]] - `contains` [EXTRACTED]
-- [[Phase 0 Gather Context]] - `contains` [EXTRACTED]
-- [[Phase 1 Audit]] - `contains` [EXTRACTED]
-- [[Phase 2.5 Metadata and readability pass]] - `contains` [EXTRACTED]
-- [[Phase 2 Generate the Profile README]] - `contains` [EXTRACTED]
-- [[Phase 3 Recommendations]] - `contains` [EXTRACTED]
-- [[Phase 4 Verify]] - `contains` [EXTRACTED]
-- [[SKILL_6]] - `contains` [EXTRACTED]
-- [[SKILL_20]] - `contains` [EXTRACTED]
-- [[Workflow]] - `contains` [EXTRACTED]
+- [[GitHub Profile Optimizer_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

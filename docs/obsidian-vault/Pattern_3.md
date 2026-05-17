@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Pattern_3.md"
 type: "document"
 community: "Community None"
-location: "L71"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Pattern**
+# Pattern_3.md
 
 ## Connections
-- [[Approval workflows should have backup approvers]] - `contains` [EXTRACTED]
+- [[Pattern_23]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

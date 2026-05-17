@@ -1,18 +1,17 @@
 ---
-source_file: "skills/second-brain/references/obsidian-mastery.md"
+source_file: "Code-base1/docs/obsidian-vault/Unified Task Structure_1.md"
 type: "document"
 community: "Community None"
-location: "L304"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Unified Task Structure
+# Unified Task Structure_1.md
 
 ## Connections
-- [[Obsidian Conventions & Best Practices]] - `contains` [EXTRACTED]
-- [[codemarkdown ( High Priority  Critical)_1]] - `contains` [EXTRACTED]
+- [[Unified Task Structure_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

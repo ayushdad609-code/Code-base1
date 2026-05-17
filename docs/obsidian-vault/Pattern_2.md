@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Pattern_2.md"
 type: "document"
 community: "Community None"
-location: "L51"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Pattern**
+# Pattern_2.md
 
 ## Connections
-- [[Content workflows should have defined approval process]] - `contains` [EXTRACTED]
+- [[Pattern_32]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

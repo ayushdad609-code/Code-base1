@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/workflows/daily-plan.md"
+source_file: "Code-base1/docs/obsidian-vault/daily-plan_3.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# daily-plan.md
+# daily-plan_3.md
 
 ## Connections
-- [[Daily Plan Workflow]] - `contains` [EXTRACTED]
+- [[daily-plan_8]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: "skills/github-readme-generator/templates/full.md"
+source_file: "Code-base1/docs/obsidian-vault/codebash ({{QUICK_START_COMMANDS}})_1.md"
 type: "document"
 community: "Community None"
-location: "L82"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:bash ({{QUICK_START_COMMANDS}})
+# codebash ({{QUICK_START_COMMANDS}})_1.md
 
 ## Connections
-- [[快速开始_3]] - `contains` [EXTRACTED]
+- [[codebash ({{QUICK_START_COMMANDS}})_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

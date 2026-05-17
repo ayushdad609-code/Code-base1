@@ -1,17 +1,17 @@
 ---
-source_file: ".agents/skills/penpot-uiux-design/references/setup-troubleshooting.md"
+source_file: "Code-base1/docs/obsidian-vault/codejson ({)_8.md"
 type: "document"
 community: "Community None"
-location: "L132"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:json ({)
+# codejson ({)_8.md
 
 ## Connections
-- [[Claude Desktop]] - `contains` [EXTRACTED]
+- [[codejson ({)_14]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

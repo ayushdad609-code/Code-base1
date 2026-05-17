@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/templates/area.md"
+source_file: "Code-base1/docs/obsidian-vault/area_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# area.md
+# area_1.md
 
 ## Connections
-- [[{{title}}]] - `contains` [EXTRACTED]
+- [[area_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

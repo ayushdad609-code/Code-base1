@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/templates/meeting-note.md"
+source_file: "Code-base1/docs/obsidian-vault/meeting-note_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# meeting-note.md
+# meeting-note_1.md
 
 ## Connections
-- [[{{YYYY-MM-DD}} - {{Meeting Topic}}]] - `contains` [EXTRACTED]
+- [[meeting-note_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,20 +1,17 @@
 ---
-source_file: "skills/second-brain/references/para-zettelkasten.md"
+source_file: "Code-base1/docs/obsidian-vault/Note Types_1.md"
 type: "document"
 community: "Community None"
-location: "L136"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Note Types
+# Note Types_1.md
 
 ## Connections
-- [[Fleeting Notes]] - `contains` [EXTRACTED]
-- [[Literature Notes]] - `contains` [EXTRACTED]
-- [[PARA + Zettelkasten Methodology]] - `contains` [EXTRACTED]
-- [[Permanent Notes]] - `contains` [EXTRACTED]
+- [[Note Types_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

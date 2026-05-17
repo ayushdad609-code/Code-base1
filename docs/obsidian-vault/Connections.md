@@ -1,5 +1,5 @@
 ---
-source_file: "Documents/code-graph-vault/main.py.md"
+source_file: "Code-base1/docs/obsidian-vault/main.py.md"
 type: "document"
 community: "Community None"
 location: "L14"

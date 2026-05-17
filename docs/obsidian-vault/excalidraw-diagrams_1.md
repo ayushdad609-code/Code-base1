@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/references/excalidraw-diagrams.md"
+source_file: "Code-base1/docs/obsidian-vault/excalidraw-diagrams_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,11 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# excalidraw-diagrams.md
+# excalidraw-diagrams_1.md
 
 ## Connections
-- [[Excalidraw Data]] - `contains` [EXTRACTED]
-- [[Excalidraw Diagrams in Obsidian]] - `contains` [EXTRACTED]
-- [[Simple Flowchart]] - `contains` [EXTRACTED]
+- [[excalidraw-diagrams_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

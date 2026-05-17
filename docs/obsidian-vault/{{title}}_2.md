@@ -1,27 +1,17 @@
 ---
-source_file: "skills/second-brain/templates/project.md"
+source_file: "Code-base1/docs/obsidian-vault/{{title}}_2.md"
 type: "document"
 community: "Community None"
-location: "L15"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# {{title}}
+# {{title}}_2.md
 
 ## Connections
-- [[Completed]] - `contains` [EXTRACTED]
-- [[Desired Outcome]] - `contains` [EXTRACTED]
-- [[High Priority Next Actions]] - `contains` [EXTRACTED]
-- [[Next Actions_3]] - `contains` [EXTRACTED]
-- [[Project Notes]] - `contains` [EXTRACTED]
-- [[Related_2]] - `contains` [EXTRACTED]
-- [[SomedayMaybe_3]] - `contains` [EXTRACTED]
-- [[Waiting On_2]] - `contains` [EXTRACTED]
-- [[Why This Matters]] - `contains` [EXTRACTED]
-- [[project]] - `contains` [EXTRACTED]
-- [[project_1]] - `contains` [EXTRACTED]
+- [[{{title}}_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

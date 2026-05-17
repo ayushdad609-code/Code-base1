@@ -1,5 +1,5 @@
 ---
-source_file: "Documents/code-graph-vault/Game Over Screen.md"
+source_file: "Code-base1/docs/obsidian-vault/Game Over Screen.md"
 type: "document"
 community: "Community None"
 location: "L1"

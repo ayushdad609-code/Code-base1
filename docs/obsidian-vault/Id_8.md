@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Id_8.md"
 type: "document"
 community: "Community None"
-location: "L165"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Id**
+# Id_8.md
 
 ## Connections
-- [[Workflows should handle integration failures gracefully]] - `contains` [EXTRACTED]
+- [[Id_24]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

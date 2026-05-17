@@ -1,18 +1,17 @@
 ---
-source_file: ".npm/_npx/901beb8b1a496dd2/package.json"
-type: "code"
+source_file: "Code-base1/docs/obsidian-vault/dependencies_2.md"
+type: "document"
 community: "Community None"
-location: "L2"
+location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# dependencies
+# dependencies_2.md
 
 ## Connections
-- [[@modelcontextprotocolserver-gdrive]] - `contains` [EXTRACTED]
-- [[package.json_2]] - `contains` [EXTRACTED]
+- [[dependencies_6]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,5 +1,5 @@
 ---
-source_file: "skills/research-idea-validator/references/decision-rules.md"
+source_file: "Code-base1/docs/obsidian-vault/decision-rules_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# decision-rules.md
+# decision-rules_1.md
 
 ## Connections
-- [[Decision Rules]] - `contains` [EXTRACTED]
+- [[decision-rules_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

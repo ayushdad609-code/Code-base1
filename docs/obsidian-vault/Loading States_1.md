@@ -1,19 +1,17 @@
 ---
-source_file: ".agents/skills/penpot-uiux-design/references/component-patterns.md"
+source_file: "Code-base1/docs/obsidian-vault/Loading States_1.md"
 type: "document"
 community: "Community None"
-location: "L313"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Loading States
+# Loading States_1.md
 
 ## Connections
-- [[Loading Patterns]] - `contains` [EXTRACTED]
-- [[Skeleton Screen]] - `contains` [EXTRACTED]
-- [[UI Component Patterns Reference]] - `contains` [EXTRACTED]
+- [[Loading States_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

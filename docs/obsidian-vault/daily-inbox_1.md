@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/templates/daily-inbox.md"
+source_file: "Code-base1/docs/obsidian-vault/daily-inbox_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# daily-inbox.md
+# daily-inbox_1.md
 
 ## Connections
-- [[Daily Inbox - {{Day of Week}}, {{Month DD, YYYY}}]] - `contains` [EXTRACTED]
+- [[daily-inbox_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

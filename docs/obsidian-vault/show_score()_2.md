@@ -1,18 +1,17 @@
 ---
-source_file: "Documents/code-graph-vault/show_score().md"
+source_file: "Code-base1/docs/obsidian-vault/show_score()_2.md"
 type: "document"
 community: "Community None"
-location: "L12"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# show_score()
+# show_score()_2.md
 
 ## Connections
-- [[Connections_3]] - `contains` [EXTRACTED]
-- [[show_score()_1]] - `contains` [EXTRACTED]
+- [[show_score()_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

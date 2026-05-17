@@ -1,17 +1,17 @@
 ---
-source_file: "skills/github-readme-generator/templates/library.md"
+source_file: "Code-base1/docs/obsidian-vault/codebash ( npm)_3.md"
 type: "document"
 community: "Community None"
-location: "L25"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:bash (# npm)
+# codebash ( npm)_3.md
 
 ## Connections
-- [[安装_5]] - `contains` [EXTRACTED]
+- [[codebash ( npm)_8]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

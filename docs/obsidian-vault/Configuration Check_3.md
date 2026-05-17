@@ -1,19 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/setup.md"
+source_file: "Code-base1/docs/obsidian-vault/Configuration Check_3.md"
 type: "document"
 community: "Community None"
-location: "L7"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Configuration Check
+# Configuration Check_3.md
 
 ## Connections
-- [[Check Memory for Configuration]] - `contains` [EXTRACTED]
-- [[Claude Code Fallback_4]] - `contains` [EXTRACTED]
-- [[Setup Workflow]] - `contains` [EXTRACTED]
+- [[Configuration Check_10]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: ".gemini/projects.json"
-type: "code"
+source_file: "Code-base1/docs/obsidian-vault/root_1.md"
+type: "document"
 community: "Community None"
-location: "L3"
+location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# /root
+# root_1.md
 
 ## Connections
-- [[projects]] - `contains` [EXTRACTED]
+- [[root_4]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

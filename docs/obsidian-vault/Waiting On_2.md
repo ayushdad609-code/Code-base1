@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/templates/project.md"
+source_file: "Code-base1/docs/obsidian-vault/Waiting On_2.md"
 type: "document"
 community: "Community None"
-location: "L63"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Waiting On
+# Waiting On_2.md
 
 ## Connections
-- [[{{title}}_2]] - `contains` [EXTRACTED]
+- [[Waiting On_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

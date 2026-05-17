@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/config/README.md"
+source_file: "Code-base1/docs/obsidian-vault/codejson ({)_1.md"
 type: "document"
 community: "Community None"
-location: "L48"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:json ({)
+# codejson ({)_1.md
 
 ## Connections
-- [[Config File Format]] - `contains` [EXTRACTED]
+- [[codejson ({)_15]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/templates/area.md"
+source_file: "Code-base1/docs/obsidian-vault/SomedayMaybe_1.md"
 type: "document"
 community: "Community None"
-location: "L53"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Someday/Maybe
+# SomedayMaybe_1.md
 
 ## Connections
-- [[{{title}}]] - `contains` [EXTRACTED]
+- [[SomedayMaybe_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

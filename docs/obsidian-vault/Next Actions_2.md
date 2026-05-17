@@ -1,19 +1,17 @@
 ---
-source_file: "skills/second-brain/templates/relationship.md"
+source_file: "Code-base1/docs/obsidian-vault/Next Actions_2.md"
 type: "document"
 community: "Community None"
-location: "L36"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Next Actions
+# Next Actions_2.md
 
 ## Connections
-- [[To Discuss]] - `contains` [EXTRACTED]
-- [[To Do (Related to Them)]] - `contains` [EXTRACTED]
-- [[{{Person Name}}]] - `contains` [EXTRACTED]
+- [[Next Actions_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,5 +1,5 @@
 ---
-source_file: ".agents/skills/penpot-uiux-design/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/SKILL_16.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# SKILL.md
+# SKILL_16.md
 
 ## Connections
-- [[Penpot UIUX Design Guide]] - `contains` [EXTRACTED]
+- [[SKILL_43]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

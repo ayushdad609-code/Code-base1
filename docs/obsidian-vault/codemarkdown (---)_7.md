@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/setup.md"
+source_file: "Code-base1/docs/obsidian-vault/codemarkdown (---)_7.md"
 type: "document"
 community: "Community None"
-location: "L406"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:markdown (---)
+# codemarkdown (---)_7.md
 
 ## Connections
-- [[Step 4 Create Personal Context File]] - `contains` [EXTRACTED]
+- [[codemarkdown (---)_12]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

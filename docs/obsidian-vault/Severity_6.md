@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Severity_6.md"
 type: "document"
 community: "Community None"
-location: "L127"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Severity**
+# Severity_6.md
 
 ## Connections
-- [[API calls should have retry logic]] - `contains` [EXTRACTED]
+- [[Severity_25]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

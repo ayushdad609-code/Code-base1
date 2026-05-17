@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/templates/user-context.md"
+source_file: "Code-base1/docs/obsidian-vault/Quick Reference_1.md"
 type: "document"
 community: "Community None"
-location: "L122"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Quick Reference
+# Quick Reference_1.md
 
 ## Connections
-- [[Assisting {{UserName}}]] - `contains` [EXTRACTED]
+- [[Quick Reference_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

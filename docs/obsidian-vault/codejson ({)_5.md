@@ -1,17 +1,17 @@
 ---
-source_file: ".agents/skills/penpot-uiux-design/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/codejson ({)_5.md"
 type: "document"
 community: "Community None"
-location: "L55"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:json ({)
+# codejson ({)_5.md
 
 ## Connections
-- [[VS Code Configuration]] - `contains` [EXTRACTED]
+- [[codejson ({)_16]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

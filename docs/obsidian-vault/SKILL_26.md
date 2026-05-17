@@ -1,5 +1,5 @@
 ---
-source_file: "skills/campaign-planning/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/SKILL_26.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# SKILL.md
+# SKILL_26.md
 
 ## Connections
-- [[Campaign Planning Skill]] - `contains` [EXTRACTED]
+- [[SKILL_64]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

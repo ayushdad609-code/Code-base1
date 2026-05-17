@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Description_14.md"
 type: "document"
 community: "Community None"
-location: "L289"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Description**
+# Description_14.md
 
 ## Connections
-- [[Automation should allow manual override]] - `contains` [EXTRACTED]
+- [[Description_25]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

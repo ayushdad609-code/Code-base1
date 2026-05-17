@@ -1,5 +1,5 @@
 ---
-source_file: ".agents/skills/github-profile/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/SKILL_6.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# SKILL.md
+# SKILL_6.md
 
 ## Connections
-- [[GitHub Profile Optimizer_1]] - `contains` [EXTRACTED]
+- [[SKILL_38]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

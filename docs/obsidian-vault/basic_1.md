@@ -1,5 +1,5 @@
 ---
-source_file: ".agents/skills/github-readme-generator/templates/basic.md"
+source_file: "Code-base1/docs/obsidian-vault/basic_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# basic.md
+# basic_1.md
 
 ## Connections
-- [[{{PROJECT_NAME}}_1]] - `contains` [EXTRACTED]
+- [[basic_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,18 +1,17 @@
 ---
-source_file: "skills/second-brain/config/README.md"
+source_file: "Code-base1/docs/obsidian-vault/Environment Variable Override_1.md"
 type: "document"
 community: "Community None"
-location: "L76"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Environment Variable Override
+# Environment Variable Override_1.md
 
 ## Connections
-- [[Configuration]] - `contains` [EXTRACTED]
-- [[codebash (export SECOND_BRAIN_VAULT_PATH=pathtoyourobsidianvault)]] - `contains` [EXTRACTED]
+- [[Environment Variable Override_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

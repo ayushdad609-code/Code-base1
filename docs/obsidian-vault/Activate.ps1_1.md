@@ -1,20 +1,17 @@
 ---
-source_file: ".local/share/pipx/shared/bin/Activate.ps1"
-type: "code"
+source_file: "Code-base1/docs/obsidian-vault/Activate.ps1_1.md"
+type: "document"
 community: "Community None"
 location: "L1"
 tags:
-  - graphify/code
+  - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Activate.ps1
+# Activate.ps1_1.md
 
 ## Connections
-- [[Get-PyVenvConfig()]] - `contains` [EXTRACTED]
-- [[global_old_virtual_prompt()]] - `contains` [EXTRACTED]
-- [[globaldeactivate()]] - `contains` [EXTRACTED]
-- [[globalprompt()]] - `contains` [EXTRACTED]
+- [[Activate.ps1_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_None
+#graphify/document #graphify/EXTRACTED #community/Community_None

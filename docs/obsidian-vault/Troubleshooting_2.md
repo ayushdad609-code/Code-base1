@@ -1,21 +1,17 @@
 ---
-source_file: ".agents/skills/penpot-uiux-design/references/setup-troubleshooting.md"
+source_file: "Code-base1/docs/obsidian-vault/Troubleshooting_2.md"
 type: "document"
 community: "Community None"
-location: "L151"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Troubleshooting
+# Troubleshooting_2.md
 
 ## Connections
-- [[Connection Issues]] - `contains` [EXTRACTED]
-- [[MCP Client Issues]] - `contains` [EXTRACTED]
-- [[Penpot MCP Server Setup & Troubleshooting]] - `contains` [EXTRACTED]
-- [[Plugin Issues]] - `contains` [EXTRACTED]
-- [[Server Issues]] - `contains` [EXTRACTED]
+- [[Troubleshooting_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

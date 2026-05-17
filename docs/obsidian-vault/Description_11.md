@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/validations.md"
+source_file: "Code-base1/docs/obsidian-vault/Description_11.md"
 type: "document"
 community: "Community None"
-location: "L229"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# **Description**
+# Description_11.md
 
 ## Connections
-- [[AI workflows should have cost budget limits]] - `contains` [EXTRACTED]
+- [[Description_24]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

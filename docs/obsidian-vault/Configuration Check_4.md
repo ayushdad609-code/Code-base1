@@ -1,19 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/daily-plan.md"
+source_file: "Code-base1/docs/obsidian-vault/Configuration Check_4.md"
 type: "document"
 community: "Community None"
-location: "L9"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Configuration Check
+# Configuration Check_4.md
 
 ## Connections
-- [[Claude Code Fallback_5]] - `contains` [EXTRACTED]
-- [[Daily Plan Workflow]] - `contains` [EXTRACTED]
-- [[codeblock1 (Do I remember the user's Second Brain vault path)_3]] - `contains` [EXTRACTED]
+- [[Configuration Check_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

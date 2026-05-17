@@ -1,5 +1,5 @@
 ---
-source_file: "skills/github-readme-generator/templates/library.md"
+source_file: "Code-base1/docs/obsidian-vault/library_2.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# library.md
+# library_2.md
 
 ## Connections
-- [[{{PROJECT_NAME}}_4]] - `contains` [EXTRACTED]
+- [[library_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

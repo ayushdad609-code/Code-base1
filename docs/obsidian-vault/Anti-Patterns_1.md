@@ -1,17 +1,17 @@
 ---
-source_file: "skills/ai-workflow-automation/references/patterns.md"
+source_file: "Code-base1/docs/obsidian-vault/Anti-Patterns_1.md"
 type: "document"
 community: "Community None"
-location: "L897"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Anti-Patterns
+# Anti-Patterns_1.md
 
 ## Connections
-- [[AI Workflow Automation]] - `contains` [EXTRACTED]
+- [[Anti-Patterns_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

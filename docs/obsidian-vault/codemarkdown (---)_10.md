@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/daily-plan.md"
+source_file: "Code-base1/docs/obsidian-vault/codemarkdown (---)_10.md"
 type: "document"
 community: "Community None"
-location: "L246"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:markdown (---)
+# codemarkdown (---)_10.md
 
 ## Connections
-- [[Step 4 Create Daily Plan File]] - `contains` [EXTRACTED]
+- [[codemarkdown (---)_13]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

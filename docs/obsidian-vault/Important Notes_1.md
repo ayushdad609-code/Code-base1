@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/daily-plan.md"
+source_file: "Code-base1/docs/obsidian-vault/Important Notes_1.md"
 type: "document"
 community: "Community None"
-location: "L331"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Important Notes
+# Important Notes_1.md
 
 ## Connections
-- [[Daily Plan Workflow]] - `contains` [EXTRACTED]
+- [[Important Notes_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

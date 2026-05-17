@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/templates/relationship.md"
+source_file: "Code-base1/docs/obsidian-vault/relationship_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# relationship.md
+# relationship_1.md
 
 ## Connections
-- [[{{Person Name}}]] - `contains` [EXTRACTED]
+- [[relationship_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

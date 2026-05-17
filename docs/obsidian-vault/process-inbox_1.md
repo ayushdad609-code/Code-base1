@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/workflows/process-inbox.md"
+source_file: "Code-base1/docs/obsidian-vault/process-inbox_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# process-inbox.md
+# process-inbox_1.md
 
 ## Connections
-- [[Process Inbox Workflow]] - `contains` [EXTRACTED]
+- [[process-inbox_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

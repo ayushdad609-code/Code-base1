@@ -1,18 +1,17 @@
 ---
-source_file: "skills/second-brain/templates/excalidraw-diagram.md"
+source_file: "Code-base1/docs/obsidian-vault/Drawing_1.md"
 type: "document"
 community: "Community None"
-location: "L19"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Drawing
+# Drawing_1.md
 
 ## Connections
-- [[Excalidraw Data_1]] - `contains` [EXTRACTED]
-- [[codejson ({)_3]] - `contains` [EXTRACTED]
+- [[Drawing_2]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

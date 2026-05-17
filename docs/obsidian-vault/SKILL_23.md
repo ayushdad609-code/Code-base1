@@ -1,5 +1,5 @@
 ---
-source_file: "skills/agentic-workflow-automation/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/SKILL_23.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# SKILL.md
+# SKILL_23.md
 
 ## Connections
-- [[Agentic Workflow Automation]] - `contains` [EXTRACTED]
+- [[SKILL_58]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

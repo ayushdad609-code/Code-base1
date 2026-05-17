@@ -1,5 +1,5 @@
 ---
-source_file: "Documents/code-graph-vault/.obsidian/graph.json"
+source_file: "Code-base1/docs/obsidian-vault/.obsidian/graph.json"
 type: "code"
 community: "Community None"
 location: "L1"

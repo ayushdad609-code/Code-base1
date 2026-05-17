@@ -1,5 +1,5 @@
 ---
-source_file: "Documents/code-graph-vault/Pygame.md"
+source_file: "Code-base1/docs/obsidian-vault/Pygame.md"
 type: "document"
 community: "Community None"
 location: "L1"

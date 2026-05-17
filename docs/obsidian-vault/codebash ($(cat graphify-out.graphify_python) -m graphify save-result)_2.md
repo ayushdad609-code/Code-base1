@@ -1,17 +1,17 @@
 ---
-source_file: ".gemini/skills/graphify/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/codebash ($(cat graphify-out.graphify_python) -m graphify save-result)_2.md"
 type: "document"
 community: "Community None"
-location: "L987"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:bash ($(cat graphify-out/.graphify_python) -m graphify save-result)
+# codebash ($(cat graphify-out.graphify_python) -m graphify save-result)_2.md
 
 ## Connections
-- [[For graphify explain]] - `contains` [EXTRACTED]
+- [[codebash ($(cat graphify-out.graphify_python) -m graphify save-result)_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

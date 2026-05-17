@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/templates/daily-plan.md"
+source_file: "Code-base1/docs/obsidian-vault/daily-plan_2.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# daily-plan.md
+# daily-plan_2.md
 
 ## Connections
-- [[Daily Plan - {{Day of Week}}, {{Month DD, YYYY}}]] - `contains` [EXTRACTED]
+- [[daily-plan_7]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

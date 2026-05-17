@@ -1,5 +1,5 @@
 ---
-source_file: "skills/research-idea-validator/references/five-plus-c-rubric.md"
+source_file: "Code-base1/docs/obsidian-vault/five-plus-c-rubric_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# five-plus-c-rubric.md
+# five-plus-c-rubric_1.md
 
 ## Connections
-- [[FIVE+C Rubric]] - `contains` [EXTRACTED]
+- [[five-plus-c-rubric_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

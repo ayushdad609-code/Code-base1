@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/references/tagging-strategy.md"
+source_file: "Code-base1/docs/obsidian-vault/tagging-strategy_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,10 @@ tags:
   - community/Community_None
 ---
 
-# tagging-strategy.md
+# tagging-strategy_1.md
 
 ## Connections
-- [[Tagging Strategy_1]] - `contains` [EXTRACTED]
+- [[Tagging Strategy_3]] - `contains` [EXTRACTED]
+- [[tagging-strategy_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

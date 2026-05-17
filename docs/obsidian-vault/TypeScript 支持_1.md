@@ -1,18 +1,17 @@
 ---
-source_file: "skills/github-readme-generator/templates/library.md"
+source_file: "Code-base1/docs/obsidian-vault/TypeScript 支持_1.md"
 type: "document"
 community: "Community None"
-location: "L68"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# TypeScript 支持
+# TypeScript 支持_1.md
 
 ## Connections
-- [[codetypescript ({{TYPE_EXAMPLE}})]] - `contains` [EXTRACTED]
-- [[{{PROJECT_NAME}}_4]] - `contains` [EXTRACTED]
+- [[TypeScript 支持_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

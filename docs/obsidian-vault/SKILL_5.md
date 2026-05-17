@@ -1,5 +1,5 @@
 ---
-source_file: ".agents/skills/github-readme-generator/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/SKILL_5.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,11 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# SKILL.md
+# SKILL_5.md
 
 ## Connections
-- [[GitHub README Generator]] - `contains` [EXTRACTED]
-- [[My Project]] - `contains` [EXTRACTED]
-- [[项目名称]] - `contains` [EXTRACTED]
+- [[SKILL_40]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

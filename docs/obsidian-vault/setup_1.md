@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/workflows/setup.md"
+source_file: "Code-base1/docs/obsidian-vault/setup_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,12 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# setup.md
+# setup_1.md
 
 ## Connections
-- [[FLOW A Full Setup (First Time)]] - `contains` [EXTRACTED]
-- [[FLOW B Update Setup (setupComplete = true)]] - `contains` [EXTRACTED]
-- [[FLOW C Existing Vault Integration]] - `contains` [EXTRACTED]
-- [[Setup Workflow]] - `contains` [EXTRACTED]
+- [[setup_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,5 +1,5 @@
 ---
-source_file: "skills/second-brain/workflows/daily-closeout.md"
+source_file: "Code-base1/docs/obsidian-vault/daily-closeout_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# daily-closeout.md
+# daily-closeout_1.md
 
 ## Connections
-- [[Daily Closeout Workflow]] - `contains` [EXTRACTED]
+- [[daily-closeout_4]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: ".agents/skills/penpot-uiux-design/references/setup-troubleshooting.md"
+source_file: "Code-base1/docs/obsidian-vault/codejson ({)_7.md"
 type: "document"
 community: "Community None"
-location: "L103"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# code:json ({)
+# codejson ({)_7.md
 
 ## Connections
-- [[VS Code with GitHub Copilot]] - `contains` [EXTRACTED]
+- [[codejson ({)_17]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

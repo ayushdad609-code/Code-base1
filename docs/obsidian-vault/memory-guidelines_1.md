@@ -1,5 +1,5 @@
 ---
-source_file: "skills/research-idea-validator/references/memory-guidelines.md"
+source_file: "Code-base1/docs/obsidian-vault/memory-guidelines_1.md"
 type: "document"
 community: "Community None"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Community_None
 ---
 
-# memory-guidelines.md
+# memory-guidelines_1.md
 
 ## Connections
-- [[Memory Guidelines]] - `contains` [EXTRACTED]
+- [[memory-guidelines_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

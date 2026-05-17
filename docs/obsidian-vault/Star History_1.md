@@ -1,18 +1,17 @@
 ---
-source_file: "skills/github-readme-generator/SKILL.md"
+source_file: "Code-base1/docs/obsidian-vault/Star History_1.md"
 type: "document"
 community: "Community None"
-location: "L317"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Star History
+# Star History_1.md
 
 ## Connections
-- [[项目名称]] - `contains` [EXTRACTED]
-- [[codeblock12]] - `contains` [EXTRACTED]
+- [[Star History_3]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

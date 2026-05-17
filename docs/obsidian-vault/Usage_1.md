@@ -1,17 +1,17 @@
 ---
-source_file: "skills/github-profile/README.md"
+source_file: "Code-base1/docs/obsidian-vault/Usage_1.md"
 type: "document"
 community: "Community None"
-location: "L15"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Usage
+# Usage_1.md
 
 ## Connections
-- [[GitHub Profile Optimizer]] - `contains` [EXTRACTED]
+- [[Usage_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

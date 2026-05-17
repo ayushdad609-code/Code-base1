@@ -1,19 +1,17 @@
 ---
-source_file: "skills/second-brain/references/para-zettelkasten.md"
+source_file: "Code-base1/docs/obsidian-vault/Best Practices_2.md"
 type: "document"
 community: "Community None"
-location: "L223"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Best Practices
+# Best Practices_2.md
 
 ## Connections
-- [[DO]] - `contains` [EXTRACTED]
-- [[DON'T]] - `contains` [EXTRACTED]
-- [[PARA + Zettelkasten Methodology]] - `contains` [EXTRACTED]
+- [[Best Practices_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

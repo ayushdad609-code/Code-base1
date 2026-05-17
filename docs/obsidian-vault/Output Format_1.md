@@ -1,18 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/process-inbox.md"
+source_file: "Code-base1/docs/obsidian-vault/Output Format_1.md"
 type: "document"
 community: "Community None"
-location: "L226"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Output Format
+# Output Format_1.md
 
 ## Connections
-- [[Process Inbox Workflow]] - `contains` [EXTRACTED]
-- [[codeblock3 (INBOX PROCESSING & REVIEW COMPLETE)]] - `contains` [EXTRACTED]
+- [[Output Format_6]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None

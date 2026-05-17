@@ -1,17 +1,17 @@
 ---
-source_file: "skills/second-brain/workflows/process-inbox.md"
+source_file: "Code-base1/docs/obsidian-vault/Claude Code Fallback_3.md"
 type: "document"
 community: "Community None"
-location: "L27"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Claude Code Fallback
+# Claude Code Fallback_3.md
 
 ## Connections
-- [[Configuration Check_2]] - `contains` [EXTRACTED]
+- [[Claude Code Fallback_10]] - `contains` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Community_None
