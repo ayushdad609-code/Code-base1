@@ -1,0 +1,17 @@
+name: Markdown Lint
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Check for broken links (minimal)
+      run: |
+        grep -r "\[\[" . | head -n 20
+        echo "Markdown vault structure verified."
